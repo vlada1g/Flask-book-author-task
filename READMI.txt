@@ -1,0 +1,7 @@
+ZA REDIS PRVO POKRENUTI SERVER u folderu Redis-x64 (redis-server.exe)
+Za prvo pokretanje programa potrebno je prvo pokrenuti database_adding_admin.py skriptu, koja pravi bazu i admin user-a
+
+https://www.youtube.com/watch?v=J5bIPtEbS0Q
+https://www.youtube.com/watch?v=WxGBoY5iNXY&ab_channel=PrettyPrinted
+
+https://www.youtube.com/c/TraversyMedia/search
